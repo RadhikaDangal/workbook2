@@ -1,3 +1,4 @@
+"use strict"
 // var firstName;
 // firstName = "Radhika";
 // lastName = "Dangal";
@@ -9,5 +10,6 @@ customer lastName = "Dangal";
 console.log(customerId);
 console.log(customer firstName);
 console.log(customer lastName);
+
 
 
